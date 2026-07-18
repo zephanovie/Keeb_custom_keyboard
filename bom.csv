@@ -1,0 +1,21 @@
+Part,Quantity,Notes,Source,Cost (Estimate)
+Orpheus Pico,1,Microcontroller - the brain of the board,Grant,
+MX-Style Switches,68,One per key for a 65% layout,Grant,
+Through-hole 1N4148 Diodes,68,One per switch ,Grant,
+SK6812 MINI-E RGB LEDs,68,"Per-key RGB, one per switch on its own data chain",Grant,
+WS2812B RGB LED Strip,1 (1m),lights mounted along inner case edges for the bleed-through glow effect,Grant/Self-sourced,$10
+WS2812B RGB LEDs (small),4,"Foot lighting, mounted at case feet angled toward the desk",Grant/Self-sourced,$4
+Stabilizers,5,Spacebar backspace left shift right shift and enter,Grant,
+Cherry Profile Keycap Set,68,Sculpted keycaps for comfort ,Self-sourced,$20
+,,,,
+EC11 Rotary Encoder,1,"The knob, for volume/scroll or lighting control",Grant,
+,,,,
+GravaStar-style Coiled USB-C Cable,1,Aesthetic coiled cable,Self-sourced,$10
+M3x16mm Screws,6,Case assembly,Grant,
+M3x5x4mm Heatset Inserts,6,Pressed into 3D-printed case,Grant,
+Translucent/Clear PETG,1 spool 1kg,For 3D printing the case so underglow bleeds through the cutouts,Self-sourced,$50
+Black PETG,1 spool 1kg,For the main 3d printed frame ,Self-sourced,$50
+Consumables,,"solder, flux, wires, glue/2 part epoxy ",Self-sourced,$25
+Light Diffusing Sheets,1,to get the underglow lights in the keyboard ,Self-sourced ,$10
+PCB printing and shipping ,1,JLCPCB shipping to Nigeria ,Self-sourced ,$70
+,,,Total=,$249
